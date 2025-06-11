@@ -208,14 +208,13 @@ validity will be discussed further soon!
 Let's introduce our list by adding some background:
 
 ```html
-<p>Some of my favorite plants!</p>
-<ul>
+<ol>
   <li>"Monstera deliciosa"</li>
   <li>"Fiddle Leaf Fig"</li>
   <li>"Pilea"</li>
   <li>"Golden Pothos"</li>
   <li>"Peace Lily"</li>
-</ul>
+</ol>
 ```
 
 Take a look at your "rendered page" and verify the result is to your liking.
